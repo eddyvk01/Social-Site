@@ -4,6 +4,8 @@
 
 It's a Simple Social Site where you can post and join group and interact created using python <b>Django</b> backend
 
+https://user-images.githubusercontent.com/105595540/194772037-f3398351-281f-49ef-88a7-60828189bea6.mp4
+
 It is a simple django project or website in which we can interact and perform the fuctions shown below.
 ### Key features:
 - Groups (similar to subreddits)
@@ -45,3 +47,7 @@ In your preferred editor, make sure indentation is set to "4 spaces".
 2. In source folder, run `python manage.py runserver` to start program, optionally, run with `--help` argument to see other runtime options.
  
 ### ThankYou!
+
+
+
+
