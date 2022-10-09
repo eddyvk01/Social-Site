@@ -2,7 +2,7 @@
 
 ![python License](https://img.shields.io/badge/MADE%20WITH-Django-blue.svg)
 
-It's a Simple Social Site where you can post and join group and interact created using python <b>Django<b> backend
+It's a Simple Social Site where you can post and join group and interact created using python <b>Django</b> backend
 
 It is a simple django project or website in which we can interact and perform the fuctions shown below.
 ### Key features:
