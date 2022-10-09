@@ -14,7 +14,7 @@ It is a simple django project or website in which we can interact and perform th
 Users can create groups, posts in the groups, they can join and leave a group.
 
 Added css and javascript to add a spacial feeling (eg. create stars)
-  
+
 ### Technologies used:
 * HTML
 * CSS
@@ -22,6 +22,9 @@ Added css and javascript to add a spacial feeling (eg. create stars)
 * Bootstrap
 * Python
 * Django
+
+PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING.
+this project is still in devlopment phase :)
 
 ## PRE-REQUISITES
 Your laptop with python 3.6.x (onwards) installed.
