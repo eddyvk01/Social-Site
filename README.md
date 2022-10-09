@@ -1,6 +1,6 @@
 # Star Social Site  ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
-![python License](https://img.shields.io/badge/MADE%20WITH-django-blue.svg)
+![python License](https://img.shields.io/badge/MADE%20WITH-Django-blue.svg)
 
 It's a Simple Social Site where you can post and join group and interact created using python <b>Django<b> backend
 
