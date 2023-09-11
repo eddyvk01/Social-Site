@@ -1,4 +1,4 @@
-# Star Social Site  ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+# Star Social Site 
 
 ![python License](https://img.shields.io/badge/MADE%20WITH-Django-blue.svg)
 
